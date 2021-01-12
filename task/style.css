@@ -10,4 +10,19 @@ p{
 }
 #second-paragraph {
 	background: red;
+	color: yellow;
+	/*margin: 50px*/
+
+/*	margin-left: 30px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 40px;*/
+	/*top right bottom left*/
+/*	margin: 50px 100px 40px 30px;*/
+
+	/*top&bottom left&right*/
+/*	margin: 50px 100px*/
+	width: 200px;
+	margin: 300px auto;
+
 }

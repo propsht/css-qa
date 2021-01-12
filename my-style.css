@@ -1,7 +1,31 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px
+}
+
 h1{
 	font-size: 150px;
+	font-family: 'Rock Salt', cursive;
+	font-weight: bold; 
+	text-decoration: underline;
 }
+
 p{
 	color: orange;
-	font-size: 50px;
+	font-size: 2em;
+	font-family: 'Leckerli One', cursive;
+	font-style: italic;
+	line-height: 2; /*растояние между строчками*/
+	text-decoration: line-through;
+	text-align: center;
+}
+a {
+	font-size: 4em;
+	text-align: center;
+	font-family: 'Leckerli One', cursive;
+	text-decoration: none;
+
+}
+a:hover {
+	text-decoration: underline;
 }
